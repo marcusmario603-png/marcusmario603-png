@@ -29,4 +29,4 @@ Eu sou o Marcus Mario Dev WEB Junior
   
 </div
 
-![snake animation](https://github.com/marcusmario603-png/marcusmario603-png/blob/output/github-contibution-grid-sanke.svg)
+
