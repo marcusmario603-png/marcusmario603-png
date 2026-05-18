@@ -1,4 +1,4 @@
-👋 Olá, eu sou Marcus Mário
+<h1>👋 Olá, eu sou Marcus Mário </h1>
 
 🎯 Analista de Dados Jr | Power BI • SQL • Python • Excel • Business Intelligence
 
