@@ -1,8 +1,10 @@
 ## Sou Marcus Mário!
 
-Analista de Dados Júnior com experiência em BI, SQL, Power BI, Python e automação de processos, transformando bases brutas em indicadores 
-para vendas, CRM e eficiência operacional. Atuação na criação de dashboards, estruturação de dados e suporte à decisão executiva. Certificado 
-Microsoft Power BI Data Analyst Associate (PL-300). 
+Meu nome é Marcus, 24 anos, de Volta Redonda-RJ, estudante de Análise e Desenvolvimento de
+Sistemas.<br>
+Atuo como analista de Dados Júnior com experiência em BI, SQL, Power BI, Python e automação de processos, transformando bases brutas em indicadores 
+para vendas, CRM e eficiência operacional. Atuo na criação de dashboards, estruturação de dados e suporte à decisões executivas.<br> <br> Certificado 
+Microsoft Power BI Data Analyst Associate (PL-300). <br>
 
 <div align="left">
   <!-- Power BI -->
